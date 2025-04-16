@@ -8,7 +8,7 @@ image:
   repository: ferozshahit22/quarkus-app
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: c0d8262512dba01d4dfbfa1a4f8e12b9627b06ac
+  tag: 8fced03df40be4f9a4727fe037d7bbe88482e520
 
 imagePullSecrets: []
 nameOverride: ""
